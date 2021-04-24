@@ -13,7 +13,7 @@ description: SpringCloud快速开始
 
 ```xml
 <!--soul springCloud plugin start-->
-dependency>
+<dependency>
     <groupId>org.dromara</groupId>
     <artifactId>soul-spring-boot-starter-plugin-springcloud</artifactId>
     <version>${project.version}</version>
